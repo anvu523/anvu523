@@ -1,4 +1,4 @@
-# Hi, I'm Thien An Vu 👋
+# Hi, I'm Vu Hoang Thien An 👋
 
 I'm an undergraduate student interested in **Quantum Computing, Machine Learning, and Scientific Computing**.
 
